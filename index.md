@@ -7,6 +7,7 @@
 | 序号 | 公司 | 性质 | 招聘公告 | 现在投递 |
 |------|------|------|----------|----------|
 | 1 | 顺丰 | 私企 | [看看公告](https://mp.weixin.qq.com/s/vpUBxS4OcY3Hxai7g_pzOA){:target="_blank" rel="noopener noreferrer"} | [投一个](https://campus.sf-express.com/#/positionList){:target="_blank" rel="noopener noreferrer"} |
+| 2 | 上海电气 | 国央企 | [看看公告](https://sec.hotjob.cn/){:target="_blank" rel="noopener noreferrer"} | [投一个](https://sec.hotjob.cn/){:target="_blank" rel="noopener noreferrer"} |
 
 ## 📅 2025-08-30
 
