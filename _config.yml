@@ -1,4 +1,8 @@
 title: 上岸的人多我一个吧
 description: 我投我投我投我投投投!
 theme: jekyll-theme-cayman
+
 markdown: kramdown
+kramdown:
+  input: GFM        # 关键：用 GFM 解析 Markdown（支持管道表格）
+  hard_wrap: false
