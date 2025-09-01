@@ -10,6 +10,8 @@
 | 2 | 平安银行(上海、苏州分行) | 私企 | N/A | N/A | [看看公告](https://mp.weixin.qq.com/s/mAc_0Ko2VxM9Yl-CNWzjkQ){:target="_blank" rel="noopener noreferrer"} | [投一个](https://campus.pingan.com/pab/freshGraduates){:target="_blank" rel="noopener noreferrer"} |
 | 3 | 大华银行 | 外企 | 75亿(CNY) | 542 | [看看公告](https://mp.weixin.qq.com/s/EVzwup_CgC6KJi2Sj8VhnA){:target="_blank" rel="noopener noreferrer"} | [投一个](https://uob.zhaopin.com/){:target="_blank" rel="noopener noreferrer"} |
 | 4 | 小红书 | 私企 | N/A | N/A | [看看公告](https://mp.weixin.qq.com/s/TUHcSn3znCofoD1kCwJ_Vg){:target="_blank" rel="noopener noreferrer"} | [投一个](https://job.xiaohongshu.com/campus){:target="_blank" rel="noopener noreferrer"} |
+| 5 | 招商银行 | 私企 | N/A | N/A | [看看公告](https://mp.weixin.qq.com/s/Nl0a-8B_xp5-jGAGfWJS4w){:target="_blank" rel="noopener noreferrer"} | [投一个](https://cmb-recruitment-mobile.paas.cmbchina.com/recommendList?qrCodeId=70C33C73-91ED-4F06-911E-1406A27744AA){:target="_blank" rel="noopener noreferrer"} |
+
 
 
 
