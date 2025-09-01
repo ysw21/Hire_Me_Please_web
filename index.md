@@ -4,9 +4,13 @@
 
 ## 📅 2025-09-01
 
-| 序号 | 公司 | 性质 | 招聘公告 | 现在投递 |
-|----------|------|------|----------|----------|
-| 1 | 立信会计师事务所 | 私企 | [看看公告](https://mp.weixin.qq.com/s/rPFYOG6XaE6xSDaCsB-2iA){:target="_blank" rel="noopener noreferrer"} | [投一个](https://bdochina.zhiye.com/campus/jobs){:target="_blank" rel="noopener noreferrer"} |
+| 序号 | 公司 | 性质 | 注册资本 | 员工人数 | 招聘公告 | 现在投递 |
+|------|------|------|----------|----------|----------|----------|
+| 1 | 立信会计师事务所 | 私企 | 1.5亿(CNY) | 2700+ | [看看公告](https://mp.weixin.qq.com/s/rPFYOG6XaE6xSDaCsB-2iA){:target="_blank" rel="noopener noreferrer"} | [投一个](https://bdochina.zhiye.com/campus/jobs){:target="_blank" rel="noopener noreferrer"} |
+| 2 | 平安银行(苏州分行) | 私企 | N/A | N/A | [看看公告](https://mp.weixin.qq.com/s/OW707TNo1TeO0FliHQ3FZA){:target="_blank" rel="noopener noreferrer"} | [投一个](https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/search?positionShareId=b8513595c9f53d79bca2601751f7a653){:target="_blank" rel="noopener noreferrer"} |
+
+
+
 
 ## 📅 2025-08-31
 
