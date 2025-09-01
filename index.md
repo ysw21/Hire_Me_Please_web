@@ -8,6 +8,7 @@
 |------|------|------|----------|----------|----------|----------|
 | 1 | 立信会计师事务所 | 私企 | 1.5亿(CNY) | 2700+ | [看看公告](https://mp.weixin.qq.com/s/rPFYOG6XaE6xSDaCsB-2iA){:target="_blank" rel="noopener noreferrer"} | [投一个](https://bdochina.zhiye.com/campus/jobs){:target="_blank" rel="noopener noreferrer"} |
 | 2 | 平安银行(上海、苏州分行) | 私企 | N/A | N/A | [看看公告](https://mp.weixin.qq.com/s/mAc_0Ko2VxM9Yl-CNWzjkQ){:target="_blank" rel="noopener noreferrer"} | [投一个](https://campus.pingan.com/pab/freshGraduates){:target="_blank" rel="noopener noreferrer"} |
+| 3 | 大华银行 | 外企 | 75亿(CNY) | 542 | [看看公告](https://mp.weixin.qq.com/s/EVzwup_CgC6KJi2Sj8VhnA){:target="_blank" rel="noopener noreferrer"} | [投一个](https://uob.zhaopin.com/){:target="_blank" rel="noopener noreferrer"} |
 
 
 
