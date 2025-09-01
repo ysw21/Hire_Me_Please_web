@@ -12,6 +12,7 @@
 | 4 | 小红书 | 私企 | N/A | N/A | [看看公告](https://mp.weixin.qq.com/s/TUHcSn3znCofoD1kCwJ_Vg){:target="_blank" rel="noopener noreferrer"} | [投一个](https://job.xiaohongshu.com/campus){:target="_blank" rel="noopener noreferrer"} |
 | 5 | 招商银行 | 私企 | N/A | N/A | [看看公告](https://mp.weixin.qq.com/s/Nl0a-8B_xp5-jGAGfWJS4w){:target="_blank" rel="noopener noreferrer"} | [投一个](https://cmb-recruitment-mobile.paas.cmbchina.com/recommendList?qrCodeId=70C33C73-91ED-4F06-911E-1406A27744AA){:target="_blank" rel="noopener noreferrer"} |
 | 6 | 华数传媒 | 国央企 | 18.5亿 (CNY) | 11539 | [看看公告](https://mp.weixin.qq.com/s/vNeDRgIG-dFluhuGDUHYOA){:target="_blank" rel="noopener noreferrer"} | [投一个](https://wecruit.hotjob.cn/SU62d26fa80dcad42fc9958ed9/pb/school.html){:target="_blank" rel="noopener noreferrer"} |
+| 7 | 爱德万测试 | 外企 | 800万 (USD) | 302 | [看看公告](https://mp.weixin.qq.com/s/LbeK4Yk5Hic9Vv9NpjlG6A){:target="_blank" rel="noopener noreferrer"} | [投一个](https://app.mokahr.com/campus-recruitment/advantest/144999?locale=zh-CN#/){:target="_blank" rel="noopener noreferrer"} |
 
 
 
