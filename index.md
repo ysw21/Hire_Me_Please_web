@@ -5,7 +5,7 @@
 ## 📅 2025-09-01
 
 | 序号 | 公司 | 性质 | 招聘公告 | 现在投递 |
-|------|------|------|----------|----------|
+|----------|------|------|----------|----------|
 | 1 | 立信会计师事务所 | 私企 | [看看公告](https://mp.weixin.qq.com/s/rPFYOG6XaE6xSDaCsB-2iA){:target="_blank" rel="noopener noreferrer"} | [投一个](https://bdochina.zhiye.com/campus/jobs){:target="_blank" rel="noopener noreferrer"} |
 
 ## 📅 2025-08-31
