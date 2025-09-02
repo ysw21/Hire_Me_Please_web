@@ -9,6 +9,7 @@
 | 1 | 中国邮政 | 国央企 | N/A | N/A | [看看公告](https://mp.weixin.qq.com/s/PF4RR3UMJlRaUgjwLLsj0w){:target="_blank" rel="noopener noreferrer"} | [投一个](https://chinapost2026.zhaopin.com/job/index.html){:target="_blank" rel="noopener noreferrer"} |
 | 2 | 欧莱雅(中国) | 外企 | N/A | N/A | [看看公告](https://mp.weixin.qq.com/s/3D7_CE0yX4fQMwCB0cr1IA){:target="_blank" rel="noopener noreferrer"} | [投一个](https://u.hrtps.com/r/cLO59ndeN){:target="_blank" rel="noopener noreferrer"} |
 | 3 | 埃珂森(上海) | 外企 | 4000万 (USD) | N/A | [看看公告](https://mp.weixin.qq.com/s/SbC-vi3feSX-XDDKzTKaWQ){:target="_blank" rel="noopener noreferrer"} | [投一个](https://xyzp.51job.com/IXM2026/){:target="_blank" rel="noopener noreferrer"} |
+| 4 | 海天味业 | 私企 | N/A | N/A | [看看公告](https://mp.weixin.qq.com/s/sSBqLfd0FOrfisk2AJCPiQ){:target="_blank" rel="noopener noreferrer"} | [投一个](https://wecruit.hotjob.cn/SU6322dfb70dcad46a862da4c5/pb/school.html){:target="_blank" rel="noopener noreferrer"} |
 
 
 ## 📅 2025-09-01
