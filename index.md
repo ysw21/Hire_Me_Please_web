@@ -15,7 +15,11 @@
 | 7 | 巴斯夫 | 外企 | 1.4亿 (USD) | 2021 | [公告](https://mp.weixin.qq.com/s/2B-dFfrxygtUGJz99LR-nA){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://www.basf.com/cn/zh/careers/graduates/grow-program){:target="_blank" rel="noopener noreferrer"} |
 | 8 | 康师傅 | 私企 | 注册资本 | 员工人数 | [公告](https://mp.weixin.qq.com/s/HG7RNdx5ggBrouBcnPXUcw){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://campus.51job.com/ksf/){:target="_blank" rel="noopener noreferrer"} |
 | 9 | 百事 | 外企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/ovuVrRojsFEA2BSZsG72iA){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://xyz.51job.com/consumer/pc/home/index?ctmid=8908663){:target="_blank" rel="noopener noreferrer"} |
-
+| 10 | 溢达集团 (高工资管培生) | 私企 | 2.3亿 (USD) | 1261 | [公告](https://mp.weixin.qq.com/s/Jndq-CKg7Tu-_iZe-6PfeQ){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://app.mokahr.com/campus-recruitment/esquel/144976?sessionid=#/){:target="_blank" rel="noopener noreferrer"} |
+| 11 | 海信(Hisense)集团 | 私企 | 注册资本 | 员工人数 | [公告](https://mp.weixin.qq.com/s/p77pSMgDvRru3u4vVIxDMg){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://jobs.hisense.com/Campus/jobs?memory=%7B%7D&amp;silence=1){:target="_blank" rel="noopener noreferrer"} |
+| 12 | 礼来制药 | 外企 | 6.6亿 (USD) | 1672 | [公告](https://mp.weixin.qq.com/s/Lc40ofigiUZeAn1teePWRw){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://careersite.tupu360.com/lilly/home/index/#/index){:target="_blank" rel="noopener noreferrer"} |
+| 13 | 达能(中国)食品 | 外企 | 5200万 (USD) | N/A | [公告](https://mp.weixin.qq.com/s/Wi55K5WlXMJX1GnTakCXcQ){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://careersite.danone.com.cn/zh_CN/careers/Campus/index.html){:target="_blank" rel="noopener noreferrer"} |
+| 14 | 友塔网络科技 (游戏) | 私企 | 1000万 (CNY) | 1409 | [公告](https://mp.weixin.qq.com/s/Yz5iMZvPKdwL6yp55L1Qmw){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://www.yotta-hr.com/zh/job?sessionid=){:target="_blank" rel="noopener noreferrer"} |
 
 ## 📅 2025-09-01
 
