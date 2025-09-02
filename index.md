@@ -14,6 +14,7 @@
 | 6 | 雅诗兰黛 | 外企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/pmEqSfidMvNnvRzLaQvnbw){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://campus.51job.com/elccampus/about.html){:target="_blank" rel="noopener noreferrer"} |
 | 7 | 巴斯夫 | 外企 | 1.4亿 (USD) | 2021 | [公告](https://mp.weixin.qq.com/s/2B-dFfrxygtUGJz99LR-nA){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://www.basf.com/cn/zh/careers/graduates/grow-program){:target="_blank" rel="noopener noreferrer"} |
 | 8 | 康师傅 | 私企 | 注册资本 | 员工人数 | [公告](https://mp.weixin.qq.com/s/HG7RNdx5ggBrouBcnPXUcw){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://campus.51job.com/ksf/){:target="_blank" rel="noopener noreferrer"} |
+| 9 | 百事 | 外企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/ovuVrRojsFEA2BSZsG72iA){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://xyz.51job.com/consumer/pc/home/index?ctmid=8908663){:target="_blank" rel="noopener noreferrer"} |
 
 
 ## 📅 2025-09-01
