@@ -11,6 +11,7 @@
 | 3 | 埃珂森(上海) | 外企 | 4000万 (USD) | N/A | [公告](https://mp.weixin.qq.com/s/SbC-vi3feSX-XDDKzTKaWQ){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://xyzp.51job.com/IXM2026/){:target="_blank" rel="noopener noreferrer"} |
 | 4 | 海天味业 | 私企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/sSBqLfd0FOrfisk2AJCPiQ){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://wecruit.hotjob.cn/SU6322dfb70dcad46a862da4c5/pb/school.html){:target="_blank" rel="noopener noreferrer"} |
 | 5 | 东软集团 | 国央企 | 11.8亿 (CNY) | 22756 | [公告](https://mp.weixin.qq.com/s/B_uBbA0_TfJ_1JGDi1PXAw){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://neusoft-campus.zhiye.com/campus/jobs){:target="_blank" rel="noopener noreferrer"} |
+| 6 | 雅诗兰黛 | 外企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/pmEqSfidMvNnvRzLaQvnbw){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://campus.51job.com/elccampus/about.html){:target="_blank" rel="noopener noreferrer"} |
 
 
 ## 📅 2025-09-01
