@@ -7,6 +7,7 @@
 | 序号 | 公司 | 性质 | 注册资本 | 员工人数 | 招聘公告 | 现在投递 |
 |------|------|------|----------|----------|----------|----------|
 | 1 | 网易数智 | 私企 | 注册资本 | 员工人数 | [公告](https://mp.weixin.qq.com/s/oIl2mlj5hoXnwb8wgbjMpg){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://campus.163.com/app/job/position?id=67&sessionid=){:target="_blank" rel="noopener noreferrer"} |
+| 2 | 百联集团 | 国央企 | 10亿 (CNY) | 25831 | [公告](https://mp.weixin.qq.com/s/kZ0lLN6aVWzavgr3M5rM4A){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://campus.51job.com/bljt2026/p2.html){:target="_blank" rel="noopener noreferrer"} |
 
 
 ## 📅 2025-09-02
