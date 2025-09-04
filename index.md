@@ -7,6 +7,7 @@
 |------|------|------|----------|----------|----------|----------|
 | 1 | 英诺赛克 | 私企 | 8.3亿 (CNY) | 1147 | [公告](https://mp.weixin.qq.com/s/GMRq17pNsi1GJeslifdZBg){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://campus.51job.com/innoscience2026/job.html){:target="_blank" rel="noopener noreferrer"} |
 | 2 | 京东方 | 私企 | 376亿 (CNY) | 99100 | [公告](https://mp.weixin.qq.com/s/uBybko24sAWP0swIA8-ZcA){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://campus.boe.com/xzzw2022){:target="_blank" rel="noopener noreferrer"} |
+| 3 | 公牛集团 | 私企 | 180.9亿 (CNY) | 13223 | [公告](https://mp.weixin.qq.com/s/u_PRSBs3O9Mfkx05yHjkaA){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://gongniu.zhiye.com/campus/jobs){:target="_blank" rel="noopener noreferrer"} |
 
 
 ## 📅 2025-09-03
