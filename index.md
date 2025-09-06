@@ -7,6 +7,7 @@
 | 序号 | 公司 | 性质 | 注册资本 | 员工人数 | 招聘公告 | 现在投递 |
 |------|------|------|----------|----------|----------|----------|
 | 1 | 金山办公 | 私企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/-uhv2p0QwZHpZ3pZMVNArw){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://join.wps.cn/campus-recruitment/wps/41436?sourceToken=8379ee777457c4d22fc65d4439f660b3#/){:target="_blank" rel="noopener noreferrer"} |
+| 2 | 国金证券 | 私企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/crCw81xWR0Y97zq4n8-Eeg){:target="_blank" rel="noopener noreferrer"} | [现在投递](http://career.gjzq.com.cn/Promotion/15d62e2f-4b75-4562-a418-0d960d8043c8){:target="_blank" rel="noopener noreferrer"} |
 
 ## 📅 2025-09-04
 
