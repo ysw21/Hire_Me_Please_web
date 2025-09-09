@@ -6,6 +6,7 @@
 | 序号 | 公司 | 性质 | 注册资本 | 员工人数 | 招聘公告 | 现在投递 |
 |------|------|------|----------|----------|----------|----------|
 | 1 | 热联集团 | 国央企 | 33.8亿 | 1685 | [公告](https://mp.weixin.qq.com/s/jj4BPEKNRfMz0O-Vt6a1nw){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://www.liepin.com/campus/project-detail/14068543/){:target="_blank" rel="noopener noreferrer"} |
+| 2 | 工银瑞信 | 私企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/NpHlEQ2fN1wYhy9HRJbITA){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://job.icbc.com.cn/pc/index.html#/main/home){:target="_blank" rel="noopener noreferrer"} |
 
 ## 📅 2025-09-06
 
