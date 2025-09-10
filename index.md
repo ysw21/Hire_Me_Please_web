@@ -7,6 +7,7 @@
 | 序号 | 公司 | 性质 | 注册资本 | 员工人数 | 招聘公告 | 现在投递 |
 |------|------|------|----------|----------|----------|----------|
 | 1 | 优衣库全球供应链管培生 | 外企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/0wtk-NtmZVXYWh6PASXg4Q){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://frsh.zhiye.com/campus/detail?jobAdId=80c48e8f-df62-45de-93e9-3fb78277dbb5&sessionid=){:target="_blank" rel="noopener noreferrer"} |
+| 2 | 杭州银行 | 私企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/OAyikozV5rkzNMyYKICgbw){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://myjob.hzbank.com.cn/hzzp-apply-web/static/index.html#/index){:target="_blank" rel="noopener noreferrer"} |
 
 ## 📅 2025-09-09
 
