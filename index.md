@@ -5,8 +5,8 @@
 
 | 序号 | 公司 | 性质 | 注册资本 | 员工人数 | 招聘公告 | 现在投递 |
 |------|------|------|----------|----------|----------|----------|
-
 | 1 | 埃森哲 | 外企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/JkrEbkscy7SCiuP7i9mJRg){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://www.accenture.com/cn-zh/careers/local/accenture-china-campus-page){:target="_blank" rel="noopener noreferrer"} |
+
 
 
 ## 📅 2025-09-10
