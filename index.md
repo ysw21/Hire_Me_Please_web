@@ -1,6 +1,12 @@
 # 上岸的人多我们两个吧 💼
 
 ---
+## 📅 2025-09-17
+
+| 序号 | 公司 | 性质 | 注册资本 | 员工人数 | 招聘公告 | 现在投递 |
+|------|------|------|----------|----------|----------|----------|
+| 1 | 小米集团国际部 | 私企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/yy1mNkeQwUyIdBbt4_hzwA){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://xiaomi.jobs.f.mioffice.cn/campus/?keywords=&category=&location=&project=7532449299457327213&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=J7NS6YR){:target="_blank" rel="noopener noreferrer"} |
+
 ## 📅 2025-09-11
 
 | 序号 | 公司 | 性质 | 注册资本 | 员工人数 | 招聘公告 | 现在投递 |
