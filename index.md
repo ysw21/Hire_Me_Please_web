@@ -6,6 +6,7 @@
 | 序号 | 公司 | 性质 | 注册资本 | 员工人数 | 招聘公告 | 现在投递 |
 |------|------|------|----------|----------|----------|----------|
 | 1 | 小米集团国际部 | 私企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s/yy1mNkeQwUyIdBbt4_hzwA){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://xiaomi.jobs.f.mioffice.cn/campus/?keywords=&category=&location=&project=7532449299457327213&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=J7NS6YR){:target="_blank" rel="noopener noreferrer"} |
+| 2 | 飞利浦 | 外企 | N/A | N/A | [公告](https://mp.weixin.qq.com/s?__biz=MzA5MTY4NjI1NA==&mid=2701606515&idx=1&sn=6edb4612d5f063fa7ff4d231129d08ed&chksm=b48b0a7283fc8364f832b68fa70b3df8aa5b0e3d1627b8e5821b0e13fac431d2b065f1e9dd57#rd){:target="_blank" rel="noopener noreferrer"} | [现在投递](https://philips.tupu360.com/pageQrCode?targetUrl=a7f4739eb94ec9ef2c1ca3020b5456cc90783cd487f77eedfecb9b14b89cf00791768fb0265163ed2175ebe001903d160e8086d07902463a46579b449c830ed6b1b3dd4fd139bf464ae61605b853a5b24c92a9cd5a1192a3b2ebc00387c4026f){:target="_blank" rel="noopener noreferrer"} |
 
 ## 📅 2025-09-11
 
